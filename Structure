@@ -1,0 +1,4 @@
+workout-site/
+│── index.html
+│── style.css
+│── script.js (optional, for future timers/randomization)
